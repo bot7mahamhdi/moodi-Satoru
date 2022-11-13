@@ -1,5 +1,5 @@
 <p align="center">
-<img src="moodi.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.ci/SBy6bKk/IMG-20220905-WA0043.jpg" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
